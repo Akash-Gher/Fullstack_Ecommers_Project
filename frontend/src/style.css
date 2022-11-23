@@ -1,0 +1,22 @@
+.header-nav{
+    background-color: blueviolet;
+    background:url("./static/img/header.png" );
+    background-size:cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+
+
+
+#head{
+    color: white;
+    font-weight: 500;
+}
+
+.head{
+    color: white;
+    font-weight: 500;
+    background-color: aqua;
+    border-radius: 10px;
+}
