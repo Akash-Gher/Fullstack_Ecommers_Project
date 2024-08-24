@@ -3,7 +3,7 @@
 
 
 
-Project title : CLoths/Fashion Shooping Eccomers fullstack project
+Project title : CLoths/Fashion  E-commerce fullstack project
 
-Description :     This is spring boot based react ecommers project where we have inventory of products 
+Description :     This is spring boot based react E-commerce project where we have inventory of products 
                  we can create user and access to user access admin can access all the crud applications.
